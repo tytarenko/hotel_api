@@ -1,0 +1,4 @@
+tornado==4.5.2
+Faker==0.8.0
+Cerberus==1.1
+peewee==2.10.1
