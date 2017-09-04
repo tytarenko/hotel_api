@@ -1,7 +1,8 @@
-mkdir hotels and cd ./hotels
-git clone
+git clone https://github.com/tytarenko/hotel_api.git
 
-(mkvirtualenv -p python2 hotels)
+cd ./hotel_api
+
+mkvirtualenv -p python2 hotel_api
 
 pip install -r requirements.txt
 make mkdb
